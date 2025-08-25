@@ -24,7 +24,7 @@ import { RolesModule } from './roles/roles.module';
     type: 'mysql',
     host: 'localhost',
     port: 3306,
-    username: 'root',
+    username: 'admin',
     password: 'Alonso959739006',
     // password: 'Kakarotossjgoddios',
     database: 'incidentmp',
